@@ -1,3 +1,4 @@
-#GenArt
+# genart-website (fork) – Character Stickers
 
-My repository for the public website genart.nl
+Fork van [vincentsijben/genart-website](https://github.com/vincentsijben/genart-website), teruggebracht tot alleen de sticker-pagina (`characters/`).
+De pagina wordt gepubliceerd op [mmtarcade.nl/stickers](https://mmtarcade.nl/stickers/).
